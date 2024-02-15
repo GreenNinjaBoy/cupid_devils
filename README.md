@@ -1,10 +1,37 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<div align="center">
 
-Welcome,
+# CupidDevils
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+</div>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+
+## Tech stack
+
+#### Languages
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - This is used for the structure of the web page and it's content.
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - This is used to style the HTML document.
+
+- [JavaScript](https://www.javascript.com/)
+    - This is used add dynamic functionality and complex features like interactivity and animation to web pages.
+#### Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+    - This front-end framework is used to create responsive, mobile-first websites and to develop web applications more quickly and easily.
+
+#### Version Control
+
+- [Github](http://github.com/)
+    - This version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together.
+
+
+
+
+
+---------
 
 ## Codeanywhere Reminders
 
